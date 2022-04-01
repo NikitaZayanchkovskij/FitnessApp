@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FitnessAppCourse</string>
+
+    <!-- В английском варианте написать: Make yourself proud! -->
+    <string name="slogan">Make yourself proud!</string>
+
+    <string name="left">Training days left:</string>
+    <string name="days_left">days</string>
+
+    <string name="day">"Day: "</string>
+    <string name="exercises_amount">"Exercises amount: "</string>
+    <string name="exercises_to_do">Exercises</string>
+    <string name="waiting_message">Exercises will start in:</string>
+    <string name="start">Start</string>
+    <string name="next">Next</string>
+    <string name="day_done">Day is completed!</string>
+    <string name="back_toTheDaysList">Back to the day\'s exercise list</string>
+    <string name="days_list">Training days</string>
+    <string name="get_ready">Get ready</string>
+
+    <string name="reset">Reset</string>
+    <string name="alert">Attention!</string>
+    <string name="cancel">Cancel</string>
+    <string name="reset_days_message">Do you really want to reset all of your progress?</string>
+    <string name="reset_day_message">Do you want to reset the day and repeat exercises?</string>
+
+
+</resources>
